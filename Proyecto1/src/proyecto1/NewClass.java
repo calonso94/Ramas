@@ -9,13 +9,6 @@ package proyecto1;
  *
  * @author Admin
  */
-public class Proyecto1 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Version 1.1");
-    }
+public class NewClass {
     
 }
